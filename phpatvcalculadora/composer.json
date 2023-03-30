@@ -1,0 +1,10 @@
+{
+    "name": "admin/phpatv",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
